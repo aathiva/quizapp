@@ -38,8 +38,6 @@ b2.grid(row=2,column=1,sticky=E)
 
 window.mainloop()
 
-import tkinter as tk
-from tkinter import messagebox
 
 
 
