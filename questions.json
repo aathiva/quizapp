@@ -1,0 +1,21 @@
+{
+    "Math": [
+        {
+            "question": "What is 2+2?",
+            "options": ["3", "4", "5", "6"],
+            "answer": 1
+        },
+        {
+            "question": "What is 3*3?",
+            "options": ["6", "7", "8", "9"],
+            "answer": 3
+        }
+    ],
+    "Science": [
+        {
+            "question": "What planet is known as the Red Planet?",
+            "options": ["Earth", "Mars", "Jupiter", "Saturn"],
+            "answer": 1
+        }
+    ]
+}
